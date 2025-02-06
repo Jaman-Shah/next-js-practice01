@@ -1,6 +1,11 @@
 import Image from "next/image";
 import React from "react";
 
+export const metadata = {
+  title: "Gallery Page",
+  description: "This is an image gallery page",
+};
+
 const GalleryPage = () => {
   return (
     <div>

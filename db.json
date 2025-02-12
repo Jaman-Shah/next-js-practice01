@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Electronics",
+      "product_name": "Smartphone",
+      "brand": "Samsung",
+      "price": 299.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqz3D9-q6eiQJsD1LtZ_1yZjCA16QKLV0-w&s"
+    },
+    {
+      "id": 2,
+      "category": "Electronics",
+      "product_name": "Laptop",
+      "brand": "Dell",
+      "price": 799.99,
+      "image": "https://www.shutterstock.com/image-photo/indonesia-mar-11-24-dell-260nw-2466605253.jpg"
+    },
+    {
+      "id": 3,
+      "category": "Fashion",
+      "product_name": "T-Shirt",
+      "brand": "Nike",
+      "price": 19.99,
+      "image": "https://www.shutterstock.com/image-vector/nike-logo-tshirt-mockup-black-260nw-2324583531.jpg"
+    },
+    {
+      "id": 4,
+      "category": "Home Appliances",
+      "product_name": "Microwave Oven",
+      "brand": "LG",
+      "price": 129.99,
+      "image": "https://www.lg.com/content/dam/channel/wcms/in/images/microwave-ovens/mjen286ufw_dbkqiln_eail_in_c/gallery1/MJEN286UFW-Microwave-ovens-Front-view-DZ-01.jpg"
+    }
+  ]
+}

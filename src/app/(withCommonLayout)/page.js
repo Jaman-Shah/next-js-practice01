@@ -3,9 +3,11 @@ import React from "react";
 
 const HomePage = async () => {
   const res = await fetch("http://localhost:5000/products", {
-    next: {
-      revalidate: 5,
-    },
+    // next: {
+    //   revalidate: 5,
+    // },
+    // cache:"force-cache"
+    cache: "no-store",
   });
   const products = await res.json();
 
